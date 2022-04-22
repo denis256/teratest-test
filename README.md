@@ -1,2 +1,3 @@
-# teratest-test
-teratest-test
+# terratest-tests
+
+Repository with examples and tests of Terratest
