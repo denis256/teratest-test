@@ -1,0 +1,8 @@
+--- FAIL: TestFail (0.00s)
+    sum_test.go:18: 
+        	Error Trace:	sum_test.go:18
+        	Error:      	Should be true
+        	Test:       	TestFail
+FAIL
+exit status 1
+FAIL	github.com/denis256/teratest-test/sum	0.011s

@@ -1,0 +1,3 @@
+--- FAIL: TestFail (0.00s)
+FAIL
+FAIL	github.com/denis256/teratest-test/sum	0.004s

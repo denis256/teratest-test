@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="1" failures="1" time="0.004" name="github.com/denis256/teratest-test/sum">
+		<properties>
+			<property name="go.version" value="go1.17"></property>
+		</properties>
+		<testcase classname="sum" name="Failure" time="0.000">
+			<failure message="Failed" type="">exit status 1</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
